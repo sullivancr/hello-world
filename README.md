@@ -1,3 +1,2 @@
 # hello-world
-My first github repository
-I am a freshman.
+It is Thursday my dudes.
